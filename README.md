@@ -27,7 +27,7 @@
 - Built for **backtesting**, **algorithmic trading** and **quantitative finance** workflows
 - **Weekly refresh** — [getdata.finance](https://getdata.finance) every **Saturday, 8am UTC+0**; GitHub `15m` sample updated in sync
 
-> **Sample on GitHub** · `XAGUSD_15m.csv` (3,697 rows, `2026-07-07` -> `2026-09-02`, 356.02 KB). **Full archive on [getdata.finance](https://getdata.finance/datasets/xagusd)** — **402,608** `15m` rows (full `1m`: 5,955,593), **11 timeframes**, `2009-02-24` -> `2026-09-02`.
+> **Sample on GitHub** · `XAGUSD_15m.csv` (3,696 rows, `2026-07-07` -> `2026-09-02`, 355.92 KB). **Full archive on [getdata.finance](https://getdata.finance/datasets/xagusd)** — **402,608** `15m` rows (full `1m`: 5,671,224), **11 timeframes**, `2009-02-24` -> `2026-09-02`.
 
 ## Download sample
 
@@ -45,8 +45,8 @@ Full archive & live chart on getdata.finance: **[https://getdata.finance/dataset
 |---|--:|---|
 | Instrument | Silver / US Dollar · Metals | Silver / US Dollar · Metals |
 | Timeframes | `15m` (sample) | **11** — 1m · 3m · 5m · 15m · 30m · 1H · 4H · 12H · 1D · 3D · 1W |
-| 15m rows | 3,697 | **402,608** |
-| Size | 356.02 KB | full ZIP on [getdata.finance](https://getdata.finance/datasets/xagusd) |
+| 15m rows | 3,696 | **402,608** |
+| Size | 355.92 KB | full ZIP on [getdata.finance](https://getdata.finance/datasets/xagusd) |
 | Period | `2026-07-07` -> `2026-09-02` | `2009-02-24` -> `2026-09-02` |
 | File | `XAGUSD_15m.csv` | ZIP on [getdata.finance](https://getdata.finance/datasets/xagusd) |
 | Coverage report | — | [XAGUSD coverage](https://getdata.finance/coverage/xagusd) |
@@ -75,11 +75,11 @@ First and latest rows from the GitHub sample **`XAGUSD_15m.csv`**:
 
 | datetime | open | high | low | close | volume |
 | --- | --- | --- | --- | --- | --- |
-| 2026-07-07T19:00:00+00:00 | 60.481 | 60.52 | 59.826 | 59.854 | 18187 |
 | 2026-07-07T19:15:00+00:00 | 59.854 | 59.901 | 59.481 | 59.807 | 19216 |
 | 2026-07-07T19:30:00+00:00 | 59.807 | 60.171 | 59.793 | 60.044 | 12026 |
 | 2026-07-07T19:45:00+00:00 | 60.044 | 60.454 | 60.032 | 60.282 | 10010 |
 | 2026-07-07T20:00:00+00:00 | 60.282 | 60.514 | 60.221 | 60.228 | 3867 |
+| 2026-07-07T20:15:00+00:00 | 60.228 | 60.358 | 60.072 | 60.174 | 3226 |
 
 **Last rows**
 
